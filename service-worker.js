@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nubank-website/precache-manifest.aeb1c5fd9c45e7726d84bbe638a2df85.js"
+  "/nubank-website/precache-manifest.db0ff23ffa8aa69d07cf7da147feeb51.js"
 );
 
 self.addEventListener('message', (event) => {

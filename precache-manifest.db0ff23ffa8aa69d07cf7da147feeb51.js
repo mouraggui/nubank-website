@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e00f80f578b91f007f77602849620152",
+    "revision": "f62e0e408af33661094868007f4e0bf1",
     "url": "/nubank-website/index.html"
   },
   {
-    "revision": "3a97cb75932574b71d66",
+    "revision": "f264ceabd5ccb0a161f3",
     "url": "/nubank-website/static/css/main.2a9a6526.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nubank-website/static/js/2.fbd51b52.chunk.js"
   },
   {
-    "revision": "3a97cb75932574b71d66",
-    "url": "/nubank-website/static/js/main.0214355d.chunk.js"
+    "revision": "f264ceabd5ccb0a161f3",
+    "url": "/nubank-website/static/js/main.692675d1.chunk.js"
   },
   {
     "revision": "6171e87fe204dc84dedf",
